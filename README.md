@@ -4,6 +4,8 @@
 Welcome to my personal wallpaper collection!
 These landscape and nature photographs were taken over the last few years with a DSLR (Canon EOS 600D) and a Drone (DJI Mavic 2 Pro).
 
+![Moss Sprouts](src/moss-sprouts.jpg)
+
 I've contributed these to the **AerynOS** project to be used as default wallpapers.
 
 ## Licensing
